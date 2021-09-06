@@ -26,7 +26,7 @@
         },
         "THUMBNAIL": {
             "description": "Put Link of any picture.",
-            "value": "https://telegra.ph/file/75ee20ec8d8c8bba84f02.jpg",
+            "value": "https://telegra.ph/file/3690108d58d517dac6bcf.jpg",
             "required": false
         },
         "FFMPEG": {
