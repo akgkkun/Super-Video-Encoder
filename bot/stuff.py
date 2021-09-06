@@ -23,7 +23,7 @@ async def up(event):
     ed = dt.now()
     v = ts(int((ed - uptime).seconds) * 1000)
     ms = (ed - stt).microseconds / 1000
-    p = f"🌋Pɪɴɢ = {ms}ms"
+    p = f"�🔥Pɪɴɢ = {ms}ms"
     await event.reply(v + "\n" + p)
 
 
@@ -31,10 +31,10 @@ async def start(event):
     await event.reply(
         f"Hi `{event.sender.first_name}`\nThis is A Bot  Which Can Encode Videos.\nReduce Size of Videos in 480p\nU can Generate Samples/screenshots too.",
         buttons=[
-            [Button.url("GROUP", url="t.me/anime_hub_group")],
+            [Button.url("Source Code", url="https://github.com/Dark-super-me/Super-Video-Encoder")],
             [
                 Button.url("CHANNEL", url="t.me/animes_encoded"),
-                Button.url("BOSS", url="t.me/Bro_isDarkal"),
+                Button.url("BOSS", url="t.me/dark_contacting_bot"),
             ],
         ],
     )
