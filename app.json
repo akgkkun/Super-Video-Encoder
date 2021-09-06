@@ -2,7 +2,7 @@
 {
     "name": "Super-Video-Encoder",
     "description": "A super telegram video encoder which can encode videos.",
-    "logo": "https://telegra.ph/file/3690108d58d517dac6bcf.jpg."
+    "logo": "https://telegra.ph/file/3690108d58d517dac6bcf.jpg",
     "keywords": ["Telegram","python", "Video","Compressor","Encoder"],
     "repository": "https://github.com/Dark-super-me/Super-Video-Encoder",
     "success_url": "https://t.me/Animes_Encoded",
