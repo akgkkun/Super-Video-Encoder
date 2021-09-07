@@ -6,10 +6,8 @@
 
 - `Queue Feature` This bot has queue feature.
 - `Thumbnail Feature` This bot has multiple thumbnail feature.
-- `Ffmpeg Feature` - We can change ffmpeg code anytime through .env vars.
-- `Authorize Feature` - Only those can use the bot whose telegram id is in .env vars.
-
-### Fork Repo Then click on below button of ur fork repo.  
+- `Ffmpeg Feature` - We can change ffmpeg code anytime through Variables.
+- `Authorize Feature` - Only those can use the bot whose telegram id is in Variables.
 
 ## Deploys 
 
