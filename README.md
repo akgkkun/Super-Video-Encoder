@@ -1,4 +1,6 @@
-# 𝕤𝕦𝕡𝕖𝕣 𝕧𝕚𝕕𝕖𝕠 𝕖𝕟𝕔𝕠𝕕𝕖𝕣
+## `Presenting the newest, best , modified telegram video compressor 
+
+𝕤𝕦𝕡𝕖𝕣 𝕧𝕚𝕕𝕖𝕠 𝕖𝕟𝕔𝕠𝕕𝕖𝕣 - with support of libfdk_aac now
 
 ## ᴍᴜʟᴛɪғᴜɴᴄᴛɪᴏɴ ǫᴜᴀʟɪᴛʏ ᴄᴏᴍᴘʀᴇssᴏʀ  
 
@@ -17,7 +19,7 @@
 
 `Railway` 
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FDark-super-me%2FSuper-Video-Encoder&envs=API_HASH%2CAPP_ID%2CFFMPEG%2COWNER%2CTHUMBNAIL&optionalEnvs=THUMBNAIL&API_HASHDesc=Get+the+value+at+telegram.org+&APP_IDDesc=Get+this+value+also+at+telegram.org+&FFMPEGDesc=Add+ur+ffmpeg+code+or+ask+at+t.me%2FAnime_Hub_Group+&OWNERDesc=Add+the+owner+value+%28your+id%29+dont+delete+the+default+value&THUMBNAILDesc=Add+ur+thumbnail+%28telegraph+link+of+ur+pic%29+or+leave+it+as+it+is+&OWNERDefault=1666551439)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FDark-super-me%2FSuper-Video-Encoder&envs=API_HASH%2CAPP_ID%2CBOT_TOKEN%2COWNER%2CFFMPEG%2CTHUMBNAIL&optionalEnvs=THUMBNAIL&API_HASHDesc=Get+this+value+from+telegram.org+&APP_IDDesc=Get+this+value+from+telegram.org+&BOT_TOKENDesc=Go+to+%40Botfather+and+make+a+new+bot+and+paste+the+bot+token+here&OWNERDesc=Your+owner+Id+%28add+only+1+id+for+working+queue+feature+%29&FFMPEGDesc=Add+the+ffmpeg+code+&THUMBNAILDesc=Add+thumbnail+telegraph+link+&THUMBNAILDefault=https%3A%2F%2Ftelegra.ph%2Ffile%2F3690108d58d517dac6bcf.jpg)
 
 `
 
@@ -37,4 +39,5 @@
 ### Credits:
 * [Dark](https://t.me/Bro_isDarkal)
 * [Kai84](https://t.mr/Kai_8_4)
+
 
