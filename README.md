@@ -1,6 +1,6 @@
-## `Presenting the newest, best , modified telegram video compressor 
+## `Presenting the newest, best , modified telegram video compressor`
 
-𝕤𝕦𝕡𝕖𝕣 𝕧𝕚𝕕𝕖𝕠 𝕖𝕟𝕔𝕠𝕕𝕖𝕣 - with support of libfdk_aac now
+𝕤𝕦𝕡𝕖𝕣 𝕧𝕚𝕕𝕖𝕠 𝕖𝕟𝕔𝕠𝕕𝕖𝕣 `with support of libfdk_aac now`
 
 ## ᴍᴜʟᴛɪғᴜɴᴄᴛɪᴏɴ ǫᴜᴀʟɪᴛʏ ᴄᴏᴍᴘʀᴇssᴏʀ  
 
