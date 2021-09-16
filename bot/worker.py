@@ -41,7 +41,7 @@ async def encod(event):
         event.sender
         if str(event.sender_id) not in OWNER:
             return
-        if  not event.media:
+        if not event.media:
             await event.reply("No a suitable media")
         if hasattr(event.media, "document"):
             if not event.media.document.mime_type.startswith(
