@@ -34,12 +34,12 @@ async def start(event):
             [
                 Button.url(
                     "Source Code",
-                    url="https://github.com/Dark-super-me/Super-Video-Encoder",
+                    url="@akgkmightbot",
                 )
             ],
             [
-                Button.url("CHANNEL", url="t.me/animes_encoded"),
-                Button.url("BOSS", url="t.me/dark_contacting_bot"),
+                Button.url("CHANNEL", url="https://t.me/AnimeLowMB"),
+                Button.url("BOSS", url="t.me/akgkmightbot"),
             ],
         ],
     )
